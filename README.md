@@ -1,5 +1,11 @@
 # Credit Card Fraud Detection
 
+## Introduction
+
+As a student aspiring to build a career in Data Science, i did this personal side project to apply my knowledge about Machine Learning algotithms on a concrete use case.
+
+## Project Overview
+
 This project aims to predict fraudulent credit card transactions using machine learning techniques. The dataset used for this project is the **Kaggle Credit Card Fraud Detection** dataset, which contains anonymized features and transaction information for over 280,000 credit card transactions, some of which are fraudulent.
 
 ## Dataset
@@ -16,3 +22,7 @@ The dataset is publicly available on Kaggle and consists of the following:
 The primary goal of this project is to:
 - Detect fraudulent transactions using machine learning models.
 - Explore and evaluate different models using appropriate metrics.
+
+## Key challenges
+
+Fraudulent transactions occur rarely in the real world, one of the key challenges was to deal with an imbalanced dataset with less than 0.2% of fraudulous transactions.
