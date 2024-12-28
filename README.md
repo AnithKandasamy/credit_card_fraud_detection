@@ -37,7 +37,7 @@ The dataset used for this project is the **Kaggle Credit Card Fraud Detection** 
 
 The dataset is publicly available on Kaggle and consists of the following:
 
-- **Features**: The dataset contains 30 anonymized features (`V1`, `V2`, ..., `V28`) along with two additional columns:
+- **Features**: The dataset contains 28 anonymized features (`V1`, `V2`, ..., `V28`) along with three additional columns:
   - `Time`: The number of seconds elapsed between this transaction and the first transaction in the dataset.
   - `Amount`: The transaction amount.
   - `Class`: The target variable indicating if the transaction was fraudulent (1) or not (0).
